@@ -1,0 +1,1 @@
+first deployed contract on zksync 2.0 with hardhat-zksync
